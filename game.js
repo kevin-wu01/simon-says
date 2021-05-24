@@ -39,7 +39,7 @@ function nextSequence() {
         break;
     }
 };
-
+//
 
 
 function animateButton(colour) {
